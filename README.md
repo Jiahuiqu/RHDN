@@ -3,7 +3,7 @@ The python code implementation of the paper "A Spatio-Spectral Fusion Method for
 
 # Requirements
 
-- Ubuntu 20.04   cuda 11.0
+- Ubuntu 20.04   cuda 11.2
 - Python 3.8  Pytorch 1.7
 
 # Usage
