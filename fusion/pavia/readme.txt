@@ -1,0 +1,1 @@
+fusion floder stores the fused data of network test.
