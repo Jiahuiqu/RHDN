@@ -30,9 +30,18 @@ The python code implementation of the paper "A Spatio-Spectral Fusion Method for
 - Note that you can download all the test and fused images of Pavia from Baidu Cloud links:[https://pan.baidu.com/s/1ytquzgD_Jvwa2czJPjElXQ](https://pan.baidu.com/s/1ytquzgD_Jvwa2czJPjElXQ)(Access Code:wyw2)
 
 # Citation
+If you use this code, please cite the following paper:
 
-J. Qu, Z. Xu, W. Dong, S. Xiao, Q. Du, Y. Li. "A Spatio-Spectral Fusion Method for Hyperspectral Images Using Residual Hyper-Dense Network."  
+@article{qu2021,
 
-__The relevant citation information will be supplemented after the paper is accepted.__
+title={A Spatio-Spectral Fusion Method for Hyperspectral Images Using Residual Hyper-Dense Network},
+
+author={Jiahui Qu, Yanzi Shi, Weiying Xie, Yunsong Li, Xianyun Wu, and Qian Du},
+
+journal={IEEE Transactions on Neural Networks and Learning Systems},
+
+year={2022}}
+
+
 
 
