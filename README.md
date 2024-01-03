@@ -31,14 +31,14 @@ The python code implementation of the paper "A Spatio-Spectral Fusion Method for
 
 # Citation
 @ARTICLE{9831112,  
-  author={Qu, Jiahui and Xu, Zhangchun and Dong, Wenqian and Xiao, Song and Li, Yunsong and Du, Qian},  
-  journal={IEEE Transactions on Neural Networks and Learning Systems},  
-  title={A Spatio-Spectral Fusion Method for Hyperspectral Images Using Residual Hyper-Dense Network},  
-  year={2022},  
-  volume={},  
-  number={},  
-  pages={1-15},  
-  doi={10.1109/TNNLS.2022.3189049}}
+  &emsp; author={Qu, Jiahui and Xu, Zhangchun and Dong, Wenqian and Xiao, Song and Li, Yunsong and Du, Qian},  
+  &emsp;journal={IEEE Transactions on Neural Networks and Learning Systems},  
+  &emsp;title={A Spatio-Spectral Fusion Method for Hyperspectral Images Using Residual Hyper-Dense Network},  
+  &emsp;year={2022},  
+  &emsp;volume={},  
+  &emsp;number={},  
+  &emsp;pages={1-15},  
+  &emsp;doi={10.1109/TNNLS.2022.3189049}}
 
 
 
