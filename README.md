@@ -1,5 +1,5 @@
-# RHDN
-The python code implementation of the paper "A Spatio-Spectral Fusion Method for Hyperspectral Images Using Residual Hyper-Dense Network"
+# RHDN for Hyperspectral Fusion
+The python code implementation of the paper "A Spatio-Spectral Fusion Method for Hyperspectral Images Using Residual Hyper-Dense Network" (IEEE Transactions on Neural Networks and Learning Systems 2022)
 
 # Requirements
 
